@@ -4,16 +4,12 @@ permalink: /:title/
 encoding: utf-8
 base_url:
     VI: /
-    JA: /ja/Introduction/
     EN: /en/Introduction/
-    FR: /fr/Introduction/
 
 t:
     title:
-        VI: "Phòng nghiên cứu NLP tại UET"
-        JA: "UETのNLPラボ"        
-        EN: "NLP lab at UET"
-        FR: "La laboratoire de PNL à l'UET"
+        VI: "Bùi Văn Tân"      
+        EN: "Van-Tan Bui"
 
 # exclude_from_localizations: ["assets", "CNAME"]
 # exclude_from_localizations: ["javascript", "images", "css", "xml"]
