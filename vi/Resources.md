@@ -5,8 +5,13 @@ lang: VI
 ref: Resources
 order: 4
 ---
+# Các đề tài NCKH đang thực hiện
+### Đề tài cấp trường trường ĐH Kinh tế Kỹ thuật Công nghiệp
+#### 2019-2020
+* Tự Động phân tách quan hệ paradigmatic dựa trên mạng nơron nhân tạo, ứng dụng xây dựng phần mềm tự động sinh câu tiếng Việt.
+
 # Các đề tài NCKH đã bảo vệ
-## Đề tài cấp trường trường ĐH Kinh tế Kỹ thuật Công nghiệp
+### Đề tài cấp trường trường ĐH Kinh tế Kỹ thuật Công nghiệp
 #### 2013-2014
 * Nghiên cứu giải thuật di truyền giải bài toán tối ưu tổ hợp. 
 #### 2014-2015
