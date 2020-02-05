@@ -40,3 +40,13 @@ Bui Van Tan, Minimum Spanning Tree for Graph With Solin Algorithm. University of
 #### 2012
 Bui Van Tan, Improve Efficiency for Hiding Information in Binary Image. Vietnam National University Journal of Science, 28(2):110-115, 2012.
 {: style="text-align: justify;"}
+
+# Tạp chí Tin học và Nhà trường
+---
+* Bùi Văn Tân, Thuật toán sắp xếp với độ phức tạp thời gian tuyến tính, 2008.
+* Thuật toán tìm kiếm tam phân, 2007.
+* Phương pháp khử Gauss giải hệ phương trình tuyến tính, 2007.
+* Cấu trúc hàng đợi có độ ưu tiên, 2007.
+* Cấu trúc dữ liệu Queue, 2006.
+* Cấu trúc dữ liệu Stack, 2005.
+
