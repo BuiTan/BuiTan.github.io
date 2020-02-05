@@ -10,5 +10,7 @@ order: 7
 ---
 
 ### Địa chỉ 
-* [Bùi Văn Tân, Email: tanbv.it@gmail.com](https://goo.gl/maps/ixbVH4tzc53eX8iw9)
+* [Bùi Văn Tân, khoa Công nghệ thông tin, Trường Đại học kinh tế kỹ thuật công nghiệp](https://goo.gl/maps/P6Xx9UeHagcydkQw6)
+* Email: tanbv.it@gmail.com
+
 
