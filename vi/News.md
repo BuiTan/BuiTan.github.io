@@ -3,7 +3,7 @@ layout: page
 title: "Tin tức"
 lang: VI
 ref: News
-order: 2
+order: 3
 ---
 # News
 ---
