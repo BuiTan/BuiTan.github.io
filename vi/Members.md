@@ -16,5 +16,4 @@ order: 1
 * Toán rời rạc.
 * Đồ họa máy tính.
 * Phương pháp tính.
----
-  
+   
