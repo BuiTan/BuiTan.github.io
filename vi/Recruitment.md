@@ -1,21 +1,13 @@
 ---
 layout: page
-title: "Tuyển dụng"
+title: "Nghiên cứu"
 lang: VI
 ref: Recruitment
 order: 5
 ---
-# Tuyển dụng
+### Nghiên cứu
+* Học máy.
+* Công nghệ phần mềm.
 ---
 
-## Sinh viên
-#### Điều kiện:
-* Sinh viên năm thứ ba, năm cuối
-
-#### Lợi ích:
-* Nghiên cứu giải quyết các bài toán có tính thời sự
-* Được tham gia sinh hoạt khoa học
-* Cơ hội thử thách, phát triển bản thân
-
-## Nghiên cứu sinh
-Vui lòng liên hệ trực tiếp
+ 
