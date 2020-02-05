@@ -10,13 +10,12 @@ order: 0
 
 Bùi Văn Tân, Khoa Công nghệ thông tin, Trường Đại học Kinh Tế Kỹ thuật Công nghiệp.
 
-----
+---
 ### Hướng nghiên cứu
-
 * Công nghệ phần mềm
 * Học máy 
 * Xử lý ngôn ngữ tự nhiên
-----
+---
 ### Quá trình đào tạo
 
 * Nghiên cứu sinh: 2016-nay, Khoa học máy tính, Trường Đại học Công nghệ - Đại học Quốc Gia Hà Nội.
