@@ -8,6 +8,4 @@ order: 5
 ### Nghiên cứu
 * Học máy.
 * Công nghệ phần mềm.
----
-
  
