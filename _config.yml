@@ -1,5 +1,5 @@
-author: "NLP lab"
-description: "An awesome NLP lab"
+author: "Bùi Văn Tân"
+description: "Trang thông tin cá nhân"
 permalink: /:title/
 encoding: utf-8
 base_url:
