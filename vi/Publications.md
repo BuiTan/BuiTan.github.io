@@ -11,7 +11,6 @@ order: 2
 
 #### 2019
 * Bui Van Tan, Nguyen Phuong Thai, Pham Van Lam, Dinh Khac Quy. Antonyms-Synonyms Discrimination Based On Exploiting Rich Vietnamese Features. Accepted in PACLING 2019.
-{: style="text-align: justify;"}
 
 #### 2018
 * Bui Van Tan, Nguyen Phuong Thai. Enhancing Performance of Lexical Entailment Recognition for Vietnamese based on Exploiting Lexical Structure Features. The 10th International Conference on Knowledge and Systems Engineering (KSE), 2018.
