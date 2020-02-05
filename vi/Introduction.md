@@ -12,4 +12,5 @@ Bùi Văn Tân, Khoa Công nghệ thông tin, Trường Đại học Kinh Tế K
 
 ## Hướng nghiên cứu
 * Công nghệ phần mềm
-* Machine Learning
+* Học máy 
+* Xử lý ngôn ngữ tự nhiên
