@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Tài liệu
+title: Giảng Dạy
 lang: VI
 ref: Members
 order: 1
 ---
-# Thành viên
+# Lập trình cơ bản
+# Lập trình .Net
+# Cấu trúc dữ liệu và giải thuật
+# Toán rời rạc
 ---
   
