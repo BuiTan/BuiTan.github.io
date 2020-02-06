@@ -18,6 +18,7 @@ Bùi Văn Tân, Khoa Công nghệ thông tin, Trường Đại học Kinh Tế K
 ### Quá trình đào tạo
 
 * Nghiên cứu sinh: 2016-nay, Khoa học máy tính, Trường Đại học Công nghệ - Đại học Quốc Gia Hà Nội.
-* Thạc sĩ, 2009, Hệ thống thông tin, Học viện Kỹ thuật Quân Sự.
-* Kỹ sư, 2007, Công nghệ thông tin, Trường Đại học Sư phạm kỹ thuật thành phố Hồ Chí Minh.
-* Cử nhân, 2005, Sư phạm Công nghệ thông tin, Trường Đại học Sư phạm kỹ thuật Nam Định.
+* Thạc sĩ, Hệ thống thông tin, Học viện Kỹ thuật Quân Sự.
+* Kỹ sư, Công nghệ thông tin, Trường Đại học Sư phạm kỹ thuật thành phố Hồ Chí Minh.
+* Cử nhân, Sư phạm Công nghệ thông tin, Trường Đại học Sư phạm kỹ thuật Nam Định.
+ 
