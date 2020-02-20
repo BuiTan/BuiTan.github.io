@@ -18,8 +18,8 @@ order: 7
 * Thủy hử - Thi Nại Am.
 
 ### Danh ngôn
-In God we trust. All others bring data- W.E. Deming
-We cannot solve problems by using the same kind of thinking we used when we created them - Albert Einstein
+* In God we trust. All others bring data- W.E. Deming
+* We cannot solve problems by using the same kind of thinking we used when we created them - Albert Einstein
 
 ### Địa chỉ liên hệ
 * [Bùi Văn Tân, khoa Công nghệ thông tin, Trường Đại học kinh tế kỹ thuật công nghiệp](https://goo.gl/maps/P6Xx9UeHagcydkQw6)
