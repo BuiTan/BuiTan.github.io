@@ -16,7 +16,8 @@ order: 7
 * Tam quốc diễn nghĩa - La Quán Trung.
 * Hán sở tranh hùng. 
 * Thủy hử - Thi Nại Am.
-
+### Danh ngôn
+In God we trust. All others bring data- W.E. Deming
 ### Địa chỉ liên hệ
 * [Bùi Văn Tân, khoa Công nghệ thông tin, Trường Đại học kinh tế kỹ thuật công nghiệp](https://goo.gl/maps/P6Xx9UeHagcydkQw6)
 * Email: tanbv.it@gmail.com
