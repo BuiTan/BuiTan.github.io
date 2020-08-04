@@ -8,7 +8,7 @@ order: 4
 # Các đề tài NCKH đang thực hiện
 
 #### 2020-2021
-* Nghiên cứu mô hình học biểu diễn dựa trên mạng nơron nhân tạo sử dụng cấu trúc dữ liệu đồ thị, ứng dụng xây dựng phần mềm tìm kiếm tài liệu theo nội dung. Đề tài cấp trường trường ĐH Kinh tế Kỹ thuật Công nghiệp (Chờ phê duyệt).
+* Nghiên cứu mô hình học biểu diễn dựa trên mạng nơron nhân tạo sử dụng cấu trúc dữ liệu đồ thị, ứng dụng xây dựng phần mềm tìm kiếm tài liệu theo nội dung. Đề tài cấp trường trường ĐH Kinh tế Kỹ thuật Công nghiệp (chờ phê duyệt).
 
 # Các đề tài NCKH đã bảo vệ
 
