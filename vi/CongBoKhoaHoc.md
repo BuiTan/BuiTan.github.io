@@ -43,10 +43,10 @@ Exploiting Co-occurrence Contexts and Word-Structure Patterns. International Jou
 
 # Tạp chí Tin học và Nhà trường
 ---
-* Bùi Văn Tân, Thuật toán sắp xếp với độ phức tạp thời gian tuyến tính, 2008.
-* Bùi Văn Tân, Thuật toán tìm kiếm tam phân, 2007.
-* Bùi Văn Tân, Phương pháp khử Gauss giải hệ phương trình tuyến tính, 2007.
-* Bùi Văn Tân, Cấu trúc hàng đợi có độ ưu tiên, 2007.
-* Bùi Văn Tân, Cấu trúc dữ liệu Queue, 2006.
-* Bùi Văn Tân, Cấu trúc dữ liệu Stack, 2005.
+* Bùi Văn Tân, Thuật toán sắp xếp với độ phức tạp thời gian tuyến tính,Tạp chí Tin học và Nhà trường, 2008.
+* Bùi Văn Tân, Thuật toán tìm kiếm tam phân, Tạp chí Tin học và Nhà trường, 2007.
+* Bùi Văn Tân, Phương pháp khử Gauss giải hệ phương trình tuyến tính, Tạp chí Tin học và Nhà trường, 2007.
+* Bùi Văn Tân, Cấu trúc hàng đợi có độ ưu tiên, Tạp chí Tin học và Nhà trường, 2007.
+* Bùi Văn Tân, Cấu trúc dữ liệu Queue, Tạp chí Tin học và Nhà trường, 2006.
+* Bùi Văn Tân, Cấu trúc dữ liệu Stack, Tạp chí Tin học và Nhà trường, 2005.
 
