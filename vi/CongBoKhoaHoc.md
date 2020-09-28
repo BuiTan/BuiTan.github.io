@@ -10,7 +10,8 @@ order: 2
 
 #### 2020
 * Van-Tan Bui, Phuong-Thai Nguyen, Van-Lam Pham, Thanh-Quy Ngo. A Neural Network Model for Efficient Antonymy-Synonymy Classification by
-Exploiting Co-occurrence Contexts and Word-Structure Patterns. International Journal of Intelligent Engineering and Systems. Vol.13, No.1, 2020 , pages: 156-166. (Scopus-Q3) [Link bài báo http://www.inass.org/2020/2020022915.pdf](http://www.inass.org/2020/2020022915.pdf)
+Exploiting Co-occurrence Contexts and Word-Structure Patterns. International Journal of Intelligent Engineering and Systems. Vol.13, No.1, 2020 , pages: 156-166. (Scopus-Q3) [Link bài báo http://www.inass.org/2020/2020022915.pdf](http://www.inass.org/2020/2020022915.pdf).
+
 * Bui Van Tan, Nguyen Phuong Thai, Pham Van Lam, Dinh Khac Quy. Antonyms-Synonyms Discrimination Based On Exploiting Rich Vietnamese Features, Communications in Computer and Information Science (proceedings of the Pacling 2019). Volume 1215, Pages 374-387. (Scopus-Q3). [Link tham khảo bài báo https://www.springer.com/gp/book/9789811561672](https://www.springer.com/gp/book/9789811561672).
 
 * Van-Tan Bui, Phuong-Thai Nguyen, Khac_Duy Dinh. Vietnamese Antonyms Detection Based on Specialized Word Embeddings using Semantic Knowledge and Distributional Information. The 12th International Conference on Knowledge and Systems Engineering (KSE), 2020.
