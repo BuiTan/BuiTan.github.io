@@ -9,6 +9,7 @@ order: 1
 * Lập trình cơ bản.
 * Lập trình .Net.
 * Toán rời rạc.
+* Cấu trúc dữ liệu và giải thuật
 
 ## Các học phần đã giảng dạy
 * Cấu trúc dữ liệu và giải thuật.
