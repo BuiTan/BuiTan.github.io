@@ -8,9 +8,9 @@ order: 2
 # Công bố khoa học
 ---
 #### 2023 
-Bui Van Tan, Nguyen Phuong Thai, Pham Van Lam. Hypernymy Detection for Vietnamese Using Dynamic Weighting Neural Network,  Lecture Notes in Computer Science (LNCS, volume 13397), 2023.
+* Bui Van Tan, Nguyen Phuong Thai, Pham Van Lam. Hypernymy Detection for Vietnamese Using Dynamic Weighting Neural Network,  Lecture Notes in Computer Science (LNCS, volume 13397), 2023.
 #### 2022
-Van-Tan Bui and Phuong-Thai Nguyen, Van-Lam Pham. Combining Specialized Word Embeddings and Subword Semantic Features for Lexical Entailment Recognition. Data and Knowledge Engineering, 2022. (SCIE, Q2, IF = 1,5).
+* Van-Tan Bui and Phuong-Thai Nguyen, Van-Lam Pham. Combining Specialized Word Embeddings and Subword Semantic Features for Lexical Entailment Recognition. Data and Knowledge Engineering, 2022. (SCIE, Q2, IF = 1,5).
 #### 2021
 * Van-Tan Bui and Phuong-Thai Nguyen. WEWD: A Combined Approach for Measuring Cross-lingual Semantic Word Similarity Based on Word Embeddings and Word Definitions. The 2021 RIVF International conference on computing and communication technologies, pages 1-6, 2021. (Scopus, DBLP)
 * Van-Tan Bui and Phuong-Thai Nguyen. Measuring semantic similarity of Vietnamese sentences based on lexical similarity and distribution semantic similarity.
