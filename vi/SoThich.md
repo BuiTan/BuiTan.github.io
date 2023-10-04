@@ -14,7 +14,7 @@ order: 7
 * Việt Nam Lược Sử - Trần Trọng Kim.
 * Không bao giờ là thất bại! Tất cả là thử thách - Chung Ju-Yung.
 * Tam quốc diễn nghĩa - La Quán Trung.
-* Hán sở tranh hùng. 
+* Hán sở tranh hùng - Mộng Bình Sơn. 
 * Thủy hử - Thi Nại Am.
 
 ### Danh ngôn
