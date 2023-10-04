@@ -8,7 +8,7 @@ order: 0
 ---
 # Giới Thiệu
 
-Bùi Văn Tân, Khoa Công nghệ thông tin, Trường Đại học Kinh Tế Kỹ thuật Công nghiệp.
+TS. Bùi Văn Tân, Khoa Công nghệ thông tin, Trường Đại học Kinh Tế Kỹ thuật Công nghiệp.
 
 ### Hướng nghiên cứu
 * Công nghệ phần mềm
