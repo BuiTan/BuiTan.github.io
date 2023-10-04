@@ -6,7 +6,8 @@ ref: Recruitment
 order: 5
 ---
 ### Nghiên cứu
-* Học máy.
+* Học máy/Học sâu.
+* Xử lý ngôn ngữ tự nhiên.
 * Công nghệ phần mềm.
 
 ### Tài liệu
