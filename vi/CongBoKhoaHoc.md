@@ -9,6 +9,7 @@ order: 2
 ---
 #### 2023  
 * Bui Van Tan, Nguyen Phuong Thai, Pham Van Lam. Hypernymy Detection for Vietnamese Using Dynamic Weighting Neural Network,  Lecture Notes in Computer Science (LNCS, volume 13397), 2023.
+* Thi-Vinh Ngo, Van-Tan Bui, Phuong-Thai Nguyen, Le-Minh Nguyen. Improving Multilingual Neural Machine Translation with Artificial Labels. Proceedings of the 12th International Symposium on Information and Communication Technology, 2023. 
   
 #### 2022
 * Van-Tan Bui and Phuong-Thai Nguyen, Van-Lam Pham. Combining Specialized Word Embeddings and Subword Semantic Features for Lexical Entailment Recognition. Data and Knowledge Engineering, 2022. (SCIE, Q2, IF = 1,5).
