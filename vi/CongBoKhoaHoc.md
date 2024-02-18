@@ -9,14 +9,17 @@ order: 2
 ---
 #### 2023  
 * Bui Van Tan, Nguyen Phuong Thai, Pham Van Lam. Hypernymy Detection for Vietnamese Using Dynamic Weighting Neural Network,  Lecture Notes in Computer Science (LNCS, volume 13397), 2023.
+  
 #### 2022
 * Van-Tan Bui and Phuong-Thai Nguyen, Van-Lam Pham. Combining Specialized Word Embeddings and Subword Semantic Features for Lexical Entailment Recognition. Data and Knowledge Engineering, 2022. (SCIE, Q2, IF = 1,5).
+  
 #### 2021
 * Van-Tan Bui and Phuong-Thai Nguyen. WEWD: A Combined Approach for Measuring Cross-lingual Semantic Word Similarity Based on Word Embeddings and Word Definitions. The 2021 RIVF International conference on computing and communication technologies, pages 1-6, 2021. (Scopus, DBLP)
 * Van-Tan Bui and Phuong-Thai Nguyen. Measuring semantic similarity of Vietnamese sentences based on lexical similarity and distribution semantic similarity.
 Lecture Notes in Networks and Systems, pages 259-270, 2021. (Scopus).
 * Hong-Viet Tran, Van-Tan Bui, Dinh-Tien Do, Van-Vinh Nguyen. Combining PhoBERT and SentiWordNet for Vietnamese Sentiment Analysis. The 13th International
 Conference on Knowledge and Systems Engineering (KSE), pages 1-5, 2021. (Scopus, DBLP).
+
 #### 2020
 * Van-Tan Bui, Phuong-Thai Nguyen, Van-Lam Pham, Thanh-Quy Ngo. A Neural Network Model for Efficient Antonymy-Synonymy Classification by
 Exploiting Co-occurrence Contexts and Word-Structure Patterns. International Journal of Intelligent Engineering and Systems. Vol.13, No.1, 2020 , pages: 156-166. (Scopus-Q3) [Link bài báo http://www.inass.org/2020/2020022915.pdf](http://www.inass.org/2020/2020022915.pdf).
