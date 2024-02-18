@@ -19,4 +19,4 @@ TS. Bùi Văn Tân, Khoa Công nghệ thông tin, Trường Đại học Kinh T�
 
 * Tiến sĩ: Khoa học máy tính, Trường Đại học Công nghệ - Đại học Quốc Gia Hà Nội.
 * Thạc sĩ: Hệ thống thông tin, Học viện Kỹ thuật Quân Sự.
-* Kỹ sư: Công nghệ thông tin, Trường Đại học Sư phạm kỹ thuật thành phố Hồ Chí Minh. 
+* Kỹ sư: Công nghệ thông tin, Trường Đại học Sư phạm kỹ thuật thành phố Hồ Chí Minh.  
