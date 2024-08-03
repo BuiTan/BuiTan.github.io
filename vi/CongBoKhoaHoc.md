@@ -7,7 +7,11 @@ order: 2
 ---
 # Công bố khoa học
 ---
+#### 2024  
+* Thu Ha Le, Thang Van Le, Van-Tan Bui, Chinh Chien Nguyen, Minh Tuan Nguyen Dinh, Ngoc Mai Chau, Van-Tien Bui, Antagonistic strategy for enhanced performance polyimide-based triboelectric nanogenerators and wireless self-powered sensors in extremely harsh environments, Nano Energy, (2024).
+  
 #### 2023  
+* Ha Binh Minh, Chu Binh Minh, Nguyen Hoang An, Bui Van Tan, Multi-Step Ahead Time Series Prediction Process Based on CEEMDAN Decomposition and Recursive Update Strategy, 2023 RIVF International Conference on Computing and Communication Technologies (RIVF), pp.224-229, (2023).
 * Bui Van Tan, Nguyen Phuong Thai, Pham Van Lam. Hypernymy Detection for Vietnamese Using Dynamic Weighting Neural Network,  Lecture Notes in Computer Science (LNCS, volume 13397), 2023.
 * Thi-Vinh Ngo, Van-Tan Bui, Phuong-Thai Nguyen, Le-Minh Nguyen. Improving Multilingual Neural Machine Translation with Artificial Labels. Proceedings of the 12th International Symposium on Information and Communication Technology, 2023. 
   
